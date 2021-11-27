@@ -10,4 +10,3 @@ This Project covers all aspects of designing a database and the SQL requests tha
 
 ### Supervised By: Amal Alamro 
 
-## Index 
