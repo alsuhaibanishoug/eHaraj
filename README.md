@@ -1,4 +1,4 @@
-# CS370 Database Designing Project
+# Database Design for eHaraj
 
 ## Description
 This Project covers all aspects of designing a database and the SQL requests that run against a database.\
